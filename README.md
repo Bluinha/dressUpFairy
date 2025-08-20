@@ -15,7 +15,7 @@ A simple dress-up game where you create your own fairy, customize her look, and 
 - Html
 - CSS
 - to continue...
-## Getting Started
+## Getting Started 🍃
 
 1. **Download the project files** (clone or zip).  
 2. **Open `index.html` in your browser**.  
